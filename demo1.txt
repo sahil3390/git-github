@@ -1,4 +1,4 @@
-first file
+first file, modified on local
 bob change the file
 Alice change the file
 modofication for remote topic, another modification for fetch command
