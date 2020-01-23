@@ -1,9 +1,9 @@
 first file, modified on local
-<<<<<<< HEAD
-bob change the file, modifying this line
-=======
 bob change the file, adding line to check pull commad
->>>>>>> 2948aa0c10048174466d8da75316f77ef2e22269
-Alice change the file
+<<<<<<< HEAD
+Alice change the file, editing in 1st terminal
+=======
+Alice change the file, editing 2nd terminal
+>>>>>>> edit in 2nd terminal
 modofication for remote topic, another modification for fetch command
 
