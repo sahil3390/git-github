@@ -1,5 +1,9 @@
 first file, modified on local
+<<<<<<< HEAD
+bob change the file, modifying this line
+=======
 bob change the file, adding line to check pull commad
+>>>>>>> 2948aa0c10048174466d8da75316f77ef2e22269
 Alice change the file
 modofication for remote topic, another modification for fetch command
 
