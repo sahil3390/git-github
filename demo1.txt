@@ -1,5 +1,5 @@
 first file, modified on local
 bob change the file, adding line to check pull commad
-Alice change the file
+Alice change the file, editing in 1st terminal
 modofication for remote topic, another modification for fetch command
 
